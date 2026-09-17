@@ -10085,14 +10085,14 @@ function generateOrderSummary() {
   const customNumber = document.getElementById('custom-number').value.trim();
   const hasCustomization = customName || customNumber;
 
-  let summary = `ORDER SUMMARY\n`;
-  summary += `=============\n\n`;
-  summary += `League: ${currentLeague}\n`;
-  summary += `Team: ${currentTeam}\n`;
-  summary += `Variant: ${variant}\n`;
-  summary += `Style: ${style}\n`;
-  summary += `Size: ${size}\n`;
-  summary += `Quantity per item: ${quantity}\n`;
+  let body = `ORDER DETAILS\n`;
+  body += `===============\n\n`;
+  body += `League: ${currentLeague}\n`;
+  body += `Team: ${currentTeam}\n`;
+  body += `Variant: ${variant}\n`;
+  body += `Style: ${style}\n`;
+  body += `Size: ${size}\n`;
+  body += `Quantity per item: ${quantity}\n`;
   if (hasCustomization) {
     let customText = '';
     if (customName) customText += customName;
@@ -10100,23 +10100,31 @@ function generateOrderSummary() {
       if (customText) customText += ' ';
       customText += '#' + customNumber;
     }
-    summary += `Back Customization: ${customText} (extra $5 per jersey)\n`;
+    body += `Back Customization: ${customText} (extra $5 per jersey)\n`;
   }
-  summary += `\n`;
-  summary += `Selected Items:\n`;
-  summary += `---------------\n`;
+  body += `\n`;
+  body += `Selected Items:\n`;
+  body += `---------------\n`;
 
+  let totalPrice = 0;
   selectedJerseys.forEach((jersey, idx) => {
     let price = parseFloat((jersey.price || '$14.50').replace('$', ''));
     if (hasCustomization) {
       price += 5;
     }
-    summary += `\n${idx + 1}. ${jersey.name}\n`;
-    summary += `   Price: $${price.toFixed(2)}\n`;
-    summary += `   Quantity: ${quantity}\n`;
+    const lineTotal = price * parseInt(quantity);
+    totalPrice += lineTotal;
+    body += `\n${idx + 1}. ${jersey.name}\n`;
+    body += `   Price: $${price.toFixed(2)} x ${quantity} = $${lineTotal.toFixed(2)}\n`;
   });
 
-  alert(summary);
+  body += `\nTOTAL: $${totalPrice.toFixed(2)}\n`;
+
+  const subject = encodeURIComponent(`Jersey Order - ${currentLeague} / ${currentTeam}`);
+  const mailtoLink = `mailto:mrpublishing21@gmail.com?subject=${subject}&body=${encodeURIComponent(body)}`;
+  
+  // Open email client with pre-filled order
+  window.location.href = mailtoLink;
 }
 
 function clearAll() {
