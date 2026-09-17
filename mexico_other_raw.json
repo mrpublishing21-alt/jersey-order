@@ -1,0 +1,74 @@
+[
+  {
+    "team": "San Luis",
+    "name": "26-27 San Luis Away Fans Soccer Jersey",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/09/15/d/d/dde4eea0b5cca52e.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Away",
+    "style": "Fan"
+  },
+  {
+    "team": "San Luis",
+    "name": "26-27 San Luis Home Fans Soccer Jersey",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/09/15/9/0/908f192e16ac9e27.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Home",
+    "style": "Fan"
+  },
+  {
+    "team": "Atlante FC",
+    "name": "26-27 Atlante FC Home Player Version Soccer Jersey*\u5e26\u5e7f\u544a",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/09/01/b/9/b91e325bb546366c.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Home",
+    "style": "Player"
+  },
+  {
+    "team": "Atlante FC",
+    "name": "26-27 Atlante FC Home Player Version Soccer Jersey",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/08/29/c/d/cd885f12ebe0e4dc.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Home",
+    "style": "Player"
+  },
+  {
+    "team": "Atlante FC",
+    "name": "26-27 Atlante FC Home Fans Soccer Jersey",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/09/06/c/f/cf0b2ba212417694.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Home",
+    "style": "Fan"
+  },
+  {
+    "team": "Atlante FC",
+    "name": "26-27 Atlante FC Away Player Version Soccer Jersey*\u5e26\u5e7f\u544a",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/09/03/6/c/6cf3d32367a9bb83.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Away",
+    "style": "Player"
+  },
+  {
+    "team": "Atlante FC",
+    "name": "26-27 Atlante FC Away Player Version Soccer Jersey",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/08/28/1/5/15d073c503fd1b45.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Away",
+    "style": "Player"
+  },
+  {
+    "team": "Atlante FC",
+    "name": "26-27 Atlante FC Away Fans Soccer Jersey",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/09/07/c/c/cca42436208056ea.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Away",
+    "style": "Fan"
+  },
+  {
+    "team": "Other",
+    "name": "1999-2000 Morelia Home Retro Soccer Jersey",
+    "image_url": "https://us03-imgcdn.ymcart.com/99900/2026/06/24/7/f/7fe9431c189735ba.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+    "price": "$25.00",
+    "variant_type": "Home",
+    "style": "Fan"
+  }
+]

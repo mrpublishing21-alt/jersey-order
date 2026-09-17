@@ -1,0 +1,855 @@
+{
+  "teams": [
+    "FC Bayern Munich",
+    "Borussia Dortmund",
+    "Eintracht Frankfurt",
+    "1. FC Union Berlin",
+    "RB Leipzig",
+    "SV Werder Bremen",
+    "VfB Stuttgart",
+    "SC Freiburg",
+    "1. FSV Mainz 05",
+    "FC Augsburg"
+  ],
+  "jerseys": {
+    "FC Bayern Munich": [
+      {
+        "name": "26-27 Bayern Third Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/04/a/7/a71d116aade40ea6.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Third",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Bayern Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/21/1/a/1a6891d8374a96b2.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Away Print Special Edition Font Player Version Soccer Jersey (\u5370\u7279\u522b\u7248\u5b57\u4f53)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/11/a/c/ac5e75ef3ce70ebc.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Away",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Bayern Away Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/09/a/f/af86ca2ef7910729.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Away",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Bayern Away Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/03/9/f/9f7961e7d8a51cfa.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Away",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Bayern Away Print Special Edition Font Fans Soccer Jersey (\u5370\u7279\u522b\u7248\u5b57\u4f53)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/11/6/7/67f2b811a131ed2c.webp?x-oss-process=image/quality,q_90/resize,m_lfit,w_220,h_220/interlace,0/auto-orient,1",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/17/4/d/4dc923f0878a138e.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Home Player Version Soccer Jersey (HK Special Edition)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/11/f/e/fe6d749627eb8f47.webp?x-oss-process=image/quality,q_90/resize,m_lfit,w_220,h_220/interlace,0/auto-orient,1",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Bayern Home Leaked Edition Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/05/28/b/7/b7f64bde00a62a41.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Bayern Home Fans Soccer Jersey (HK Special Edition)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/11/f/9/f94989d5c8479d57.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Home Fans Soccer Jersey 1:1 Thai Quality",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/07/16/e/5/e54326607eb3d441.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Home Embroidered Version Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/24/8/8/88fa992e5644b2f2.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "25-26 Bayern Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/09/08/1/f/1fe60f69de4d7f8b.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Bayern Third Embroidered Version Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/25/8/5/851655c48c701972.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Bayern Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/07/10/6/2/62a14f53f2f602e5.jpeg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Bayern Away Muller #25 Print Picture Number Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/05/11/7/a/7a395104f299da7a.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Bayern Home Special Edition Font Fans Soccer Jersey (\u7403\u8ff7\u5370\u7279\u522b\u7248\u5b57\u4f53)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/11/29/f/7/f74e211650ee78a8.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Bayern Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/08/05/d/e/de7397d8f99d7e25.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Purple Goalkeeper Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/11/2/9/294674f1d2a5eaf9.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Green Goalkeeper Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/03/1/f/1f669b7ea040111a.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Orange Goalkeeper Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/03/6/c/6cd2b7821b6da936.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Oktoberfest Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/08/5/a/5a16cb17591a8789.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Bayern Oktoberfest Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/08/2/3/2317b049696c7e8b.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Bayern Casual Version Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/04/10/8/4/84a5c6ae48345bae.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      }
+    ],
+    "Borussia Dortmund": [
+      {
+        "name": "26-27 Dortmund Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/14/2/5/25e8b3c356851598.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Dortmund Away Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/15/f/1/f19844a0ab615c81.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Away",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Dortmund Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/07/07/1/7/17fb3adcacf7303f.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "2026 Dortmund Home Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/01/15/9/b/9b90bab7fe719f12.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 Dortmund Home Fans Soccer Jersey 1:1 Thai Quality",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/09/5/1/514c2868789eb3a4.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Dortmund Away Fans Soccer Jersey*\u5370\u829d\u9ebb\u8857\u5b57\u4f53",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/10/14/3/7/379ea1c96decb3e5.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Dortmund Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/09/23/1/0/1067cc20ee2b3d55.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Dortmund Home Fans Soccer Jersey*\u5370\u829d\u9ebb\u8857\u5b57\u4f53",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/10/14/c/4/c4d141041ca77669.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Dortmund Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/11/04/f/a/faafbfb193d0ce1e.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Dortmund Pink Goalkeeper Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/12/9/3/93dee3c2fdd065c8.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Dortmund Orange Goalkeeper Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/11/c/3/c332b68d148cf886.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Dortmund Special Edition Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/03/24/6/c/6ca2a13827b38f85.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Dortmund Black Special Edition Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/18/5/0/507218979b6206c7.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Dortmund Purple Special Edition Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/03/12/3/4/346917d54758b96c.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "25-26 Dortmund Special Edition Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/03/07/9/7/977f640cc6fa27ef.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "25-26 Dortmund Special Edition Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/03/07/0/e/0ec9d6b5910a0d9e.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Dortmund CWC Yellow Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/05/10/6/1/61220bada2ecbfbe.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Dortmund Cup Match Home Player Version Soccer Jersey (\u676f\u8d5b\u7248)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/08/14/2/a/2a4356580dd7a62e.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "25-26 Dortmund Cup Match Home Fans Soccer Jersey (\u676f\u8d5b\u7248)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/12/29/5/0/50555b0e8d2fc8ca.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "24-25 Dortmund Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/b/0/b068b04fa690e0f4.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "24-25 Dortmund Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/d/1/d15c6d0bc8b332f2.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "22-23 Dortmund Home 1:1 Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/f/7/f7b30a8744a1e555.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2020-2021 Dortmund Home Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/1/b/1b4f17dd9e479d49.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1998 Dortmund Away Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/04/02/a/2/a2e14b31fb362aaf.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "1996-1997 Dortmund Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/10/16/0/5/05a0da547c540489.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1997-1998 Dortmund Away Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/05/10/2/8/28ec427f7df2a53d.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "1995 Dortmund Away Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/05/07/7/5/75a65ce3992c6f6a.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "1990 Dortmund Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/b/8/b8f480de6e6cfcb8.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2019-2020 Dortmund Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/9/1/91fd0ed6a4398bf5.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1996-1997 Dortmund Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/f/3/f399bb9edc31939f.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2012-2013 Dortmund Home UCL Edition Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/9/7/9782226093ed6807.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1995-1996 Dortmund Away Black Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/9/7/976f3b4c1ba3fb56.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      }
+    ],
+    "Eintracht Frankfurt": [
+      {
+        "name": "26-27 Frankfurt Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/26/e/c/ec5a79dc403226cc.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Frankfurt Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/08/6/6/669ac844da619731.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Frankfurt Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/07/18/2/3/230ac4ddd30730ff.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Frankfurt Home Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/07/28/7/8/78dbb89eaca9c148.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Frankfurt Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/08/25/d/6/d62c65219b29b9ee.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Frankfurt Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/09/15/9/7/97d0fd803ab67c9c.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Frankfurt Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/09/12/2/7/278bb6135a8608e9.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Frankfurt Home Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/11/20/d/5/d5758ed619347268.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Frankfurt Special Edition Fans Soccer Jersey 1:1 Thai Quality",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/09/06/2/1/21c4865efb5d96de.jpeg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2001-2003 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/12/0/2/02928fe7b92a77d2.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1987-1990 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/09/6/a/6a369d3eddc959e5.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1998-2000 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/05/20/9/4/94e29aa92fb9fbab.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1999-2000 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/05/06/6/6/66663ea92b823d90.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1991-1992 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/03/23/6/1/612b3f4ca22208ba.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1983-1984 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/03/19/3/8/38293edaa6cf6967.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1996-1997 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/03/04/b/d/bdcdad4f51e04801.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1990 Frankfurt Home Retro Soccer Jersey\uff08Customized Effects Need to contact customer service to confirm\uff09",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/01/16/0/9/09694ff5347e6662.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1993-1995 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/01/12/1/1/115212613649c284.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1993-1996 Frankfurt Away Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/01/09/7/c/7c1d7ad914f57201.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "1995-1996 Frankfurt Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/11/14/f/b/fb007181d1318df2.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      }
+    ],
+    "1. FC Union Berlin": [
+      {
+        "name": "26-27 Berlin Union Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/02/f/8/f89226655ab2a2c7.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Berlin Union Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/23/e/2/e2febc7d2f299ef9.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Berlin Union Home Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/07/29/f/e/fe3e46e3dc549496.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2026 Berlin Union 60th Anniversary Commemorative Edition Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/01/30/7/c/7c1a48e55dce5d28.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      }
+    ],
+    "RB Leipzig": [
+      {
+        "name": "26-27 RB Leipzig Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/09/4/6/46e06ade91df5ef3.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 RB Leipzig Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/05/f/b/fb0fd2a1e26a724c.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 RB Leipzig Home Player Version Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/02/b/3/b3bf320f67842fc9.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$28.00",
+        "variant_type": "Home",
+        "style": "Player"
+      },
+      {
+        "name": "26-27 RB Leipzig Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/13/4/9/499828a091e7d271.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 RB Leipzig Home Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/13/e/f/eff24b8e21be12ab.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 RB Leipzig High Quality Training Short Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/05/14/b/d/bd57dc6079083446.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      }
+    ],
+    "SV Werder Bremen": [
+      {
+        "name": "26-27 Werder Bremen Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/05/4/0/4053f8275da9381a.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Werder Bremen Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/15/2/e/2e9d93b03f46d019.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Werder Bremen Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/05/4/5/457af334142ead00.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Werder Bremen Third Adult Suit",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/05/7/7/774f9e6760ae8035.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Werder Bremen Special Edition Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/04/20/7/5/75e753b73bd2323f.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2009-2010 Werder Bremen Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/06/08/d/a/da09db009f9faa42.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1987-1988 Werder Bremen Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/11/05/b/9/b96722a4bf0b13e2.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1993 Werder Bremen Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/10/13/0/9/095d0ffd327c676d.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2003-2004 Werder Bremen Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/04/29/8/4/840855bad44dfb4a.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1994 Werder Bremen Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/03/07/0/b/0bae33fe2a6787ba.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2001 Werder Bremen Away Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/4/6/461c0b25e1dd3869.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "1996-1997 Werder Bremen Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/f/6/f6ba67c8fd186389.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "1987-1988 Werder Bremen Away Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/03/09/3/7/3735e7982bf5293a.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      }
+    ],
+    "VfB Stuttgart": [
+      {
+        "name": "26-27 Stuttgart European Away Fans Soccer Jersey (\u6b27\u51a0\u7248)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/13/2/e/2e0bb13573c77d7c.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Stuttgart European Home Fans Soccer Jersey (\u6b27\u51a0\u7248)",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/13/c/d/cdd6e7bd72b52a04.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 VfB Stuttgart Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/04/1/3/130dfb32cd1fbbb5.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 VfB Stuttgart Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/10/f/8/f8bceaab4a7c3240.webp?x-oss-process=image/quality,q_90/resize,m_lfit,w_220,h_220/interlace,0/auto-orient,1",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 VfB Stuttgart Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/05/b/d/bd6bb1b023ffbfab.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 VfB Stuttgart Black Special Edition Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/31/7/8/783978f6f6832582.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 VfB Stuttgart Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/07/f/6/f6dd4f8d6497dfd1.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 VfB Stuttgart Away Fans Soccer Jersey 1:1 Thai Quality",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/08/25/d/b/db6db96085794cb9.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 VfB Stuttgart Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/08/05/f/c/fc35b4545dd03f08.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2006-2007 Stuttgart Away Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/4/7/47f8f78404a811ec.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "2006-2007 Stuttgart Home Retro Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2024/11/06/5/f/5f22ee14b9639ffe.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      }
+    ],
+    "SC Freiburg": [
+      {
+        "name": "26-27 Freiburg Home Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/14/0/9/099cbf523bcb36f1.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Freiburg Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/09/11/4/b/4bc488319d38f279.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "26-27 Freiburg Third Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/08/14/3/0/30cff3bb84193b4a.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Third",
+        "style": "Fan"
+      }
+    ],
+    "1. FSV Mainz 05": [
+      {
+        "name": "25-26 Mainz Away Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/11/05/b/3/b36989a836ee6170.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Away",
+        "style": "Fan"
+      },
+      {
+        "name": "25-26 Mainz Home Fans Soccer Jersey 1:1 Thai Quality",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2025/10/09/2/5/2540104326384ed4.png?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      }
+    ],
+    "FC Augsburg": [
+      {
+        "name": "2026 Augsburg FC Blue Special Edition Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/03/16/7/5/75312e9df93f04cb.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      },
+      {
+        "name": "2026 Augsburg FC Special Edition Fans Soccer Jersey",
+        "image": "https://us03-imgcdn.ymcart.com/99900/2026/03/14/c/8/c83fd2d396e2be15.jpg?x-oss-process=image/quality,Q_90/auto-orient,1/resize,m_lfit,w_220,h_220",
+        "price": "$25.00",
+        "variant_type": "Home",
+        "style": "Fan"
+      }
+    ]
+  }
+}
