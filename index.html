@@ -347,6 +347,19 @@
 
       <form id="order-form" style="margin-top: 20px;">
         <div class="form-row">
+          <div class="form-group" style="flex: 1;">
+            <label for="customer-name">Customer Full Name *</label>
+            <input type="text" id="customer-name" placeholder="Your full name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+          </div>
+          <div class="form-group" style="flex: 1;">
+            <label for="customer-email">Email Address *</label>
+            <input type="email" id="customer-email" placeholder="your@email.com" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+          </div>
+        </div>
+
+        <hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
+
+        <div class="form-row">
           <div class="form-group">
             <label for="league-select">League</label>
             <select id="league-select" disabled>
@@ -10120,11 +10133,30 @@ function generateOrderSummary() {
 
   body += `\nTOTAL: $${totalPrice.toFixed(2)}\n`;
 
-  const subject = encodeURIComponent(`Jersey Order - ${currentLeague} / ${currentTeam}`);
-  const mailtoLink = `mailto:mrpublishing21@gmail.com?subject=${subject}&body=${encodeURIComponent(body)}`;
+  const customerName = document.getElementById('customer-name').value.trim();
+  const customerEmail = document.getElementById('customer-email').value.trim();
   
-  // Open email client with pre-filled order
-  window.location.href = mailtoLink;
+  if (!customerName || !customerEmail) {
+    alert('Please enter your name and email address.');
+    return;
+  }
+
+  body += `\nCUSTOMER INFO:\n`;
+  body += `===============\n`;
+  body += `Name: ${customerName}\n`;
+  body += `Email: ${customerEmail}\n`;
+
+  // Send to Google Apps Script (replace URL after you create the form)
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbz4bQpJpRc4HLs_8NSOwQF4_O1mE-3X3icYgvxcNhs3g8cS-PTLjbMEf8B-H2mnTUer/exec';
+  
+  fetch(scriptURL, {
+    method: 'POST',
+    mode: 'no-cors',
+    headers: { 'Content-Type': 'text/plain' },
+    body: body
+  })
+  .then(() => alert('Order submitted successfully!'))
+  .catch((error) => console.error('Error:', error));
 }
 
 function clearAll() {
